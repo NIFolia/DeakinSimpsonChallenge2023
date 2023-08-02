@@ -1,0 +1,1981 @@
+question,image_id,question_id
+Is he wearing glasses?,1,1
+Is there a fire?,1,2
+is he running?,2,3
+Is this a carpark?,2,4
+is he sitting?,3,5
+Is this old man angry?,3,6
+is he wearing blue clothes,4,7
+is he indoors?,4,8
+is the wall pink?,5,9
+Are there any windows in the picture?,5,10
+is this bed blue?,6,11
+Are they eating?,6,12
+Does he wear white?,7,13
+Does he sitting?,7,14
+Are they in a car?,8,15
+is he sawing chains?,8,16
+is he sawing chains?,9,17
+Are they in a car?,9,18
+Are they in a car?,10,19
+are they outside?,10,20
+Are they wear glasses?,11,21
+is he empty handed?,11,22
+Are the walls of the room painted pink?,12,23
+Does he sitting?,12,24
+does he wear glasses?,13,25
+Are the walls of the room painted pink?,13,26
+Are they in a car?,14,27
+Are there two police officers?,14,28
+Does he wear black?,15,29
+is the wall pink?,15,30
+is the car pink?,16,31
+is he indoors?,16,32
+Does the man looks happy?,17,33
+Did he open his eyes?,17,34
+is he in the park?,18,35
+is he along?,18,36
+are there windows in this picture?,19,37
+Is the person in the picture running?,19,38
+Does the person in the picture look surprised?,20,39
+is this person in the car?,20,40
+does this person have brown hair?,21,41
+is this person in the room now?,21,42
+is the color of this room orange?,22,43
+is the person in the picture sitting?,22,44
+Is anyone dancing in the picture?,23,45
+Are the windows open in the picture?,23,46
+Are there multiple people in the picture?,24,47
+Are all these people kids?,24,48
+Are people sitting in the picture?,25,49
+Are the walls of the room painted blue?,25,50
+Are there any plants in the picture?,26,51
+Are they studying?,26,52
+Do you see any person wearing spectacles in this picture?,27,53
+Can you see love in this picture?,27,54
+are there 2 people in this picture?,28,55
+Is the person in the picture not wearing clothes?,28,56
+is the person in the picture holding something?,29,57
+are they in the room?,29,58
+does he wear a hat?,30,59
+Are there windows on the wall in the picture?,30,60
+is the person in the picture driving>,31,61
+does he wear a hat?,31,62
+Is anyone dancing in the picture?,32,63
+Is anyone running in the picture?,32,64
+is anyone sitting in the picture?,33,65
+is there anyone standing in the picture?,33,66
+Does the person in the picture open their mouth?,34,67
+is the person in the picture driving?,34,68
+are there windows in the picture?,35,69
+is there only one person here?,35,70
+is there a table in the picture?,36,71
+do they wear hats?,36,72
+Is color of the curtains red?,37,73
+do they wear hats?,37,74
+Is there only one person in the picture?,38,75
+Is the person in the picture sitting?,38,76
+Is the person in the picture wearing a white coat?,39,77
+Is the person in the picture empty-handed?,39,78
+Are the people in the picture facing each other?,40,79
+are they in the room?,40,80
+Is there anyone sitting in the picture?,41,81
+is there a table in the picture?,41,82
+Is there any bottled liquid in the picture?,42,83
+is the person in the picture in the car?,42,84
+Is there anyone sitting on the blue bed in the picture?,43,85
+Are there any windows in the picture?,43,86
+Is there a sea in the picture?,44,87
+Is there anyone standing in the picture?,44,88
+Are there any paintings on the wall in the picture?,45,89
+is there a table in the picture?,45,90
+Is the person in the picture holding something?,46,91
+Are there any windows in the picture?,46,92
+Is anyone wearing a hat in the picture?,47,93
+Is anyone in the picture with their eyes closed?,47,94
+Is anyone in the picture laughing?,48,95
+Is anyone in the picture with their eyes open?,48,96
+Does anyone in the picture wear glasses?,49,97
+Does the person in the picture have brown hair?,49,98
+Is the person in the picture standing?,50,99
+Is the person in the picture holding something?,50,100
+Is the person in the picture outside?,51,101
+are there any birds in the picture?,51,102
+Is the person in the picture outside?,52,103
+are there any birds in the picture?,52,104
+Are there many people in the picture?,53,105
+Are there any trees in the picture?,53,106
+is there a book in the picture?,54,107
+Are there many people in the picture?,54,108
+Does the person in the photo have gray hair?,55,109
+Is the person in the picture with his head down?,55,110
+is the person in the picture angry?,56,111
+Does the person in the picture have something in his hand?,56,112
+Is the person in the picture wearing a hat?,57,113
+Does the person in the picture have their eyes closed?,57,114
+Are there any children in the picture?,58,115
+Is anyone in the picture running?,58,116
+Is anyone in the picture reading a book?,59,117
+Does the person in the picture have brown hair?,59,118
+is there beer in the picture?,60,119
+Are there many people in the picture?,60,120
+Is the person in the picture driving?,61,121
+Is there only one person in the picture?,61,122
+Does the person in the picture have a beard?,62,123
+Does the person in the picture wear glasses?,62,124
+is the person in the picture smiling?,63,125
+Is the person in the picture outside?,63,126
+Are there any plants in the picture?,64,127
+is the person in the picture singing?,64,128
+is there a table in the picture?,65,129
+Does the person in the picture open their eyes?,65,130
+Is there only one person in the picture?,66,131
+Is the background in the picture black?,66,132
+is there a table in the picture?,67,133
+Is the window in the picture open?,67,134
+Is the person in the picture wearing green clothes?,68,135
+Does the person in the picture wear glasses?,68,136
+is there a table in the picture?,69,137
+is the person in the picture sitting?,69,138
+Is there anyone in the picture?,70,139
+Is the person in the picture singing?,70,140
+Are there any trees in the picture?,71,141
+is there a car in the picture?,71,142
+Is the person in the picture holding a mobile phone?,72,143
+Is it daytime in the picture?,72,144
+Does the person in the picture wear glasses?,73,145
+Does the person in the picture have blue hair?,73,146
+Is there a poster in the picture?,74,147
+is the person in the picture in the car?,74,148
+is the person in the picture in the car?,75,149
+Is there a poster in the picture?,75,150
+Are the people in the picture communicating?,76,151
+Is there only one person in the picture?,76,152
+Does the person in the picture have a beard?,77,153
+Is the person in the picture bald?,77,154
+is the person in the picture smiling?,78,155
+Are there any windows in the picture?,78,156
+Is there only one person in the picture?,79,157
+is the person in the picture smiling?,79,158
+Is the person in the picture reading a newspaper?,80,159
+is the person in the picture smiling?,80,160
+Is the person in the picture holding banknotes in their hands?,81,161
+is there a small bicycle in the picture?,81,162
+Is the person in the picture wearing pink clothes?,82,163
+Is the person in the picture wearing blue clothes?,82,164
+is there a cowboy hat in the picture?,83,165
+Is the person in the picture riding a bull?,83,166
+Are there many containers or bottles in the picture?,84,167
+Are there many people partying in the picture?,84,168
+Is there a cup on the table in the picture?,85,169
+Can you see the windows on the wall in the picture?,85,170
+is there a table in the picture?,86,171
+Does anyone in the picture wear glasses?,86,172
+Can you see the windows on the wall in the picture?,87,173
+Is the person in the picture happy?,87,174
+is there a table in the picture?,88,175
+Is the person in the picture happy?,88,176
+Is there anyone standing in the picture?,89,177
+is the person in the picture sitting?,89,178
+is the person in the picture wearing a green jacket?,90,179
+Is the person in the picture happy?,90,180
+is there a door in the picture?,91,181
+Are there windows in the picture?,91,182
+is there a table in the picture?,92,183
+Does the person in the picture open their eyes?,92,184
+Is there a calendar on the wall in the picture?,93,185
+Are there windows in the picture?,93,186
+Is the person in the picture speaking into a microphone?,94,187
+is there anyone else in the picture?,94,188
+Is the person in the picture happy?,95,189
+Are there any windows in the picture?,95,190
+Does the person in the picture raise their hands?,96,191
+Is the person in the picture depressed?,96,192
+Are there many people in the car in the picture?,97,193
+Are there no children in the picture?,97,194
+is there a red table in the picture?,98,195
+Is the person in the picture standing?,98,196
+Is there a picture frame on the bedside table in the picture?,99,197
+Does the one in the picture wear glasses?,99,198
+Is the person in the picture happy?,100,199
+is there a table in the picture?,100,200
+Is the person in the picture taking a nap on the couch?,101,201
+Does the person in the picture open their eyes?,101,202
+Are there any windows in the picture?,102,203
+is there anyone in the picture?,102,204
+Is the person in the picture preparing to eat with a knife and fork?,103,205
+Are there any windows in the picture?,103,206
+Is the person in the picture answering the phone with a handset?,104,207
+Are the hands of the person in the picture empty?,104,208
+Is the person in the picture lying on the bed ready to sleep?,105,209
+Is the person in the picture lying on the sofa?,105,210
+Is the one in the picture standing?,106,211
+Is there only one person in the picture?,106,212
+is there anyone in the picture?,107,213
+is there a car in the picture?,107,214
+Are there subtitles in the picture?,108,215
+Is the person in the picture happy?,108,216
+Is the person in the picture wearing a hat?,109,217
+Is the person in the picture indoors?,109,218
+Are there any children in the picture?,110,219
+Is there only one person in the picture?,110,220
+Is there a desk lamp in the picture?,111,221
+Is the person in the picture sad?,111,222
+Is the person in the picture wearing an orange t-shirt and blue shorts?,112,223
+Are there any windows in the picture?,112,224
+Can you feel the love in this picture?,113,225
+Is the person in the picture lying on the bed?,113,226
+Is there food and water glasses on the table in the picture?,114,227
+Is the person in the picture happy?,114,228
+Is the person in the middle of the picture speaking to others?,115,229
+Are there adults in the picture?,115,230
+Is there a police officer in the picture?,116,231
+Is anyone wearing a hat in the picture?,116,232
+Is the person in the picture holding a magnet?,117,233
+Is the person in the picture happy?,117,234
+is there a mirror in the picture?,118,235
+Does the person in the picture wear glasses?,118,236
+Is the sea in the background of the picture?,119,237
+Is the person in the picture indoors?,119,238
+Are there grasslands and white clouds in the picture?,120,239
+Is the person in the picture indoors?,120,240
+Is the person in the picture on the street? Can you see the roof of the shop?,121,241
+Is the person in the picture happy?,121,242
+Is the person in the picture angry?,122,243
+Is the person in the picture happy?,122,244
+Is the person in the picture lying on the bed?,123,245
+Is the person in the picture outside?,123,246
+Is the person in the picture indoors?,124,247
+Does the person in the picture wear a hat?,124,248
+Does the person in the picture open their eyes?,125,249
+Is the person in the picture happy?,125,250
+Is the person in the picture outside?,126,251
+Does the person in the picture have something in his hand?,126,252
+is there anyone in the picture?,127,253
+Is there any bottled liquid in the picture?,127,254
+Is the person in the picture holding something in his hand?,128,255
+Is the person in the picture indoors?,128,256
+Does the person in the picture carry a schoolbag or backpack?,129,257
+Does the person in the picture demonstrate?,129,258
+Is the person in the picture talking on a cell phone?,130,259
+Is the person in the picture watching TV?,130,260
+Is the wall in the picture covered with leaflets?,131,261
+Is the person in the picture wearing a schoolbag or backpack?,131,262
+Does the guy in the picture have a joystick in front of him?,132,263
+Is the person in the picture lying on the bed?,132,264
+Is the person in the picture about to be injected? Is there a syringe in the picture?,133,265
+Is the person in the picture happy?,133,266
+Is the person in the picture doing homework?,134,267
+Is the person in the picture lying on the bed?,134,268
+is there a chair in the picture,135,269
+Is the person in the picture standing?,135,270
+Can you see clouds and bushes in the picture?,136,271
+Is the environment in the picture outdoors?,136,272
+Are there many people in the picture?,137,273
+can you feel the love in this picture?,137,274
+Is the person in the picture indoors?,138,275
+Is the person in the picture sitting at the table?,138,276
+Is the person in the picture playing outside?,139,277
+is there a car in the picture?,139,278
+Are the people in the picture worried?,140,279
+Is the person in the picture happy?,140,280
+Are there any plants in the picture?,141,281
+Are there any police in the picture?,141,282
+Is anyone in the picture wearing a police uniform?,142,283
+Is anyone wearing a hat in the picture?,142,284
+Is there anyone kneeling in the picture?,143,285
+is the person in the picture on the mattress?,143,286
+is the person in the picture on the sofa?,144,287
+Is the person in the picture happy?,144,288
+Does the person in the picture open his mouth?,145,289
+Is the person in the picture happy?,145,290
+can you feel the love in this picture?,146,291
+is there a window in the picture?,146,292
+Is the person in the picture sitting on the sofa answering the phone?,147,293
+can you feel the love in this picture?,147,294
+Is the person in the picture aiming with a slingshot?,148,295
+Is the person in the picture driving?,148,296
+Is the person in the picture bald?,149,297
+Is the person in the picture angry?,149,298
+is the person in the picture speaking?,150,299
+is there anyone else in the picture?,150,300
+Is the person in the photo talking to someone?,151,301
+Is this person wearing a skirt?,151,302
+Is that a blue background behind this man?,152,303
+Does the man in the picture have long hair?,152,304
+Are there six people in this photo?,153,305
+Are there six girls in this picture?,153,306
+Are there many plants in this picture?,154,307
+Is there any bird in this photo?,154,308
+Is this man standing in front of the red curtain?,155,309
+Does this man look angry?,155,310
+Are some of the people in this picture wearing suits?,156,311
+Is there a rabbit in this picture？,156,312
+Are there men and women in the audience?,157,313
+The bald man in the picture wears clothes with the number 2 written on it?,157,314
+Is there a hand holding a basketball in the picture？,158,315
+Does the bald man in the picture look happy?,158,316
+Is the person in the picture sitting in a wheelchair?,159,317
+Is that a young man in the picture?,159,318
+Are the window frames blue?,160,319
+Can we see the whole body of the person in the picture?,160,320
+Can we see any book shelf in the picture?,161,321
+Is this man sitting on a green chaise longue?,161,322
+Does the man look angry?,162,323
+Does the window glass appear to be intact?,162,324
+Does the man look sad?,163,325
+Is that a woman carrying the luggage in the picture?,163,326
+Is the man thinking of something?,164,327
+Is this man wearing a blue scarf around his neck?,164,328
+Is the man in the picture yellow-skinned?,165,329
+Can we see the feet of the man in this photo?,165,330
+Is this man in the picture wearing a white T-shirt?,166,331
+Is this man in the picture wearing a pair of green jeans?,166,332
+Does the man in the picture have 8 fingers in total?,167,333
+Does the man look excited？,167,334
+Is this man writting something?,168,335
+The man in the picture has thick eyebrows?,168,336
+Is this man in the picture wearing a pair of blue jeans?,169,337
+Is this man sitting on a small chair?,169,338
+Can we see clouds in the blue sky?,170,339
+Is the man lying on the ground?,170,340
+Is the man dancing?,171,341
+Is the man dancing in the forest?,171,342
+Is the man in the picture look old?,172,343
+Is this man wearing earrings?,172,344
+Does this man look sad?,173,345
+Does this man look very strong?,173,346
+Does this man have a very long nose?,174,347
+Is the man wearing a bow tie?,174,348
+Is the man holding something with his hands?,175,349
+Is the dark-skinned one in the picture a girl in dress?,175,350
+Is this man looking at something with a telescope?,176,351
+Can we see the sun in the sky from this picture?,176,352
+Is the man in the picture holding a kid?,177,353
+The door behind the two characters is red?,177,354
+Is the man sitting on a red chair?,178,355
+Is the man laughing?,178,356
+Is the man wearing a blue suit?,179,357
+Is the man looking up to the sky?,179,358
+Does the man look annoyed?,180,359
+Is the man sitting on a green chair?,180,360
+Can we see a rainbow on the cover of the book?,181,361
+Can we see the face of the person holding this book?,181,362
+Does the man look angry?,182,363
+Is this man wearing a green tie?,182,364
+The man has a suspicious smirk on his face?,183,365
+Is the man wearing a red shirt?,183,366
+Is the man sitting in a car?,184,367
+Is the man wearing a red suit?,184,368
+Is this man a criminal?,185,369
+Does this man look very kind?,185,370
+Is there a glass of water in front of the man?,186,371
+Does the man look very happy?,186,372
+Is this man holding a quill in his hand?,187,373
+Is the table green?,187,374
+Is the man standing in front of a door?,188,375
+The room number is 100?,188,376
+The man is about to press a button?,189,377
+Does the man look angry?,189,378
+The man is grabbed by someone?,190,379
+Is the man sitting comfortably?,190,380
+Does the man look terrified?,191,381
+The man is holding  a blue blanket?,191,382
+Is the man holding a microphone?,192,383
+Is the man wearing a black hat?,192,384
+Does the man look angry?,193,385
+Is it daytime in the picture?,193,386
+Is the man wiping his nose?,194,387
+Is the man standing in front of a red chair?,194,388
+Does the man look astonished?,195,389
+Is the man wearing a green jacket?,195,390
+Are people wearing sportswear in the picture?,196,391
+Are there many yellow houses in the picture?,196,392
+Are there two policemen in the photo?,197,393
+The season shown in this photo is spring?,197,394
+Is the man lying on a hospital bed?,198,395
+Does the man look very healthy in this photo?,198,396
+Are there three policemen beside a police car?,199,397
+Are the policemen standing on the grass?,199,398
+Are there three policemen in the picture?,200,399
+Are all the adults in the picture?,200,400
+Do the people in the picture have police badges on them?,201,401
+are there any children in the picture?,201,402
+Does the guy in the picture have his tie clipped?,202,403
+Are the people in the picture happy?,202,404
+Does the person in the picture wear a hat?,203,405
+Does the person in the picture wear myopia glasses?,203,406
+Is the guy in the picture wearing a police cap?,204,407
+Is the person in the picture wearing a police uniform?,204,408
+is it nighttime in the picture,205,409
+Is it daytime in the picture,205,410
+Is the background in the picture in prison?,206,411
+Is the person in the picture a child?,206,412
+is it nighttime in the picture,207,413
+Is the person in the picture wearing a police cap?,207,414
+Does the policeman in the picture have a walkie-talkie strapped to his waist?,208,415
+Does the person in the picture wear glasses?,208,416
+Is the police officer in the picture lying on a chair outdoors?,209,417
+Is it daytime in the picture?,209,418
+Is the policeman in the picture driving?,210,419
+Is it daytime in the picture?,210,420
+Do the policemen in the picture have handcuffs and other police equipment on their waists?,211,421
+Is the person in the picture sad?,211,422
+Is the car in the picture pink?,212,423
+Does the person in the picture have black hair?,212,424
+is there a table in the picture?,213,425
+Are there any children in the picture?,213,426
+Is there a police car next to the police in the picture?,214,427
+Is the person in the picture a child?,214,428
+Are the police officers in the picture escorting criminals?,215,429
+Is it nighttime in the picture?,215,430
+Are the policemen in the picture on the street?,216,431
+Is the building in the picture brown?,216,432
+Is the cop in the picture eating donuts and drinking coffee in the car?,217,433
+is it daytime in the picture?,217,434
+Are there any plants in the picture?,218,435
+Is the person in the picture happy?,218,436
+Are the policemen's hands tied up with rope in the picture?,219,437
+Are the people in the picture happy?,219,438
+Are the people in the picture happy?,220,439
+Is the car in the picture black?,220,440
+Does the person in the picture wear glasses?,221,441
+is the person in the picture in the car?,221,442
+Does the person in the picture wear glasses?,222,443
+is the person in the picture in the car?,222,444
+Are there drinks and burgers on the table in the picture,223,445
+Is the person in the picture lying on the bed?,223,446
+Does the policeman in the picture have a gun in his hand or waist?,224,447
+Is it night in the picture?,224,448
+Is the police car in the picture white?,225,449
+Is the person in the picture sitting in the car?,225,450
+Is the person in the picture holding paper in his hand?,226,451
+Is the person in the picture holding a newspaper?,226,452
+Are any windows broken in the picture?,227,453
+Are there any children in the picture?,227,454
+is there a table in the picture?,228,455
+Is there only one person in the picture?,228,456
+Is there only one person in the picture?,229,457
+Is the person in the picture holding a weapon?,229,458
+Is the person in the picture driving?,230,459
+Does the person in the picture wear glasses?,230,460
+is there a table in the picture?,231,461
+Is the person in the picture wearing a police cap?,231,462
+Is the person in the picture holding a weapon?,232,463
+Is the person in the picture a criminal?,232,464
+Is the person in the picture holding a weapon?,233,465
+is it daytime in the picture?,233,466
+Is the person in the picture a police officer?,234,467
+does he wear glasses,234,468
+Is the person in the picture holding a gift in his hand?,235,469
+is there a table in the picture?,235,470
+Is the person in the picture saying hello?,236,471
+Is the person in the picture asleep?,236,472
+Are the people in the picture happy?,237,473
+Is the person in the picture a child?,237,474
+Is anyone down in the picture?,238,475
+Are all the people in the picture kids?,238,476
+Is the book in the picture red?,239,477
+is there a window in the picture?,239,478
+Is the person in the picture lying on the bed?,240,479
+Is the person in the picture sitting in the car?,240,480
+are there trees in the picture?,241,481
+Is it night time in the picture?,241,482
+is the person in the picture smiling,242,483
+Is it night time in the picture?,242,484
+Is the policeman in the picture sitting on a chair?,243,485
+Is the person in the picture lying on the bed?,243,486
+Is the table in the picture full of foods?,244,487
+Is it daytime in the picture?,244,488
+Are there two police officers in the picture?,245,489
+Are there two children in the picture?,245,490
+Is the person in the picture a policeman?,246,491
+The person in the picture has an empty hand?,246,492
+Is the person in the picture fat?,247,493
+Does the person in the picture wear a hat?,247,494
+Is there a poster in the picture?,248,495
+Is the person in the picture a policeman?,248,496
+Is the person in the picture taking notes?,249,497
+Does the person in the picture wear glasses?,249,498
+Does the person in the picture feel pain?,250,499
+Is the person in the picture lying down and sleeping?,250,500
+Is the person reading something?,251,501
+Is the man holding a book?,251,502
+Is there two people in the picture?,252,503
+Does the taller one in the picture look happy?,252,504
+Does the man in the picture have brown hair?,253,505
+Are the walls blue?,253,506
+Is this man being arrested?,254,507
+Are people in the picture outside the house?,254,508
+Does the person in the picture have long hair?,255,509
+Does the person in the picture wearing a hat?,255,510
+Is the taller person in the picture wearing a pink suit?,256,511
+Is the person with brown hair talking right now?,256,512
+Is there a carpet on the floor?,257,513
+Is the man running in the room?,257,514
+Is the person wearing a blue shirt?,258,515
+Does the person look skinny?,258,516
+Is there a movie poster on the wall?,259,517
+Is the man standing beside the desk?,259,518
+Is the man typing?,260,519
+The woman on the poster has short blonde hair?,260,520
+Is the man lying on the bed?,261,521
+Does the man look happy?,261,522
+Is this man sitting on a high stool?,262,523
+Is the man sitting in front of a blue curtain?,262,524
+Is the man standing on the balcony?,263,525
+Is this building red?,263,526
+Is there a man sitting on a park bench in the picture？,264,527
+Is the man wearing a blue jacket?,264,528
+This man has his arms crossed?,265,529
+Does the man look happy and excited?,265,530
+Is the man wearing a green tie?,266,531
+Is that a tall glass of red wine in front of this man?,266,532
+Does the person in the picture look very unhappy?,267,533
+Is the person in the picture wearing a down jacket?,267,534
+Does the person in the picture look unwell?,268,535
+Is the man standing beside the bed?,268,536
+Is the man in the picture saying something angrily?,269,537
+Is the ceiling in the picture red?,269,538
+Is there a man in the picture making a wish on the shooting stars?,270,539
+Can we see a bunch of people in the picture?,270,540
+Is the man holding the document in the picture shouting?,271,541
+Is there only one person in the picture?,271,542
+Does the person in the picture look angry?,272,543
+Is the person holding a pile of books?,272,544
+Does the man look sad?,273,545
+Is this man looking to the left?,273,546
+Does the man in the picture have a beard?,274,547
+Is this man standing?,274,548
+Are there two people in this picture?,275,549
+Is the boy in the picture wearing a red eye patch？,275,550
+Is the man wearing a blue shirt?,276,551
+Is this man indoors at this moment?,276,552
+Is there a red hat in this picture?,277,553
+Does the man in the picture have short curly black hair?,277,554
+The man in the picture seems to do something wrong?,278,555
+Does the man look very clean and neatly dressed?,278,556
+Is the man in the picture pointing at something?,279,557
+Is the man sitting on the ground?,279,558
+Is the man in the picture holding a book with a purple cover?,280,559
+Is the wall behind this man in pink？,280,560
+Is the man in the picture organizing something?,281,561
+Is there more than one box on the table?,281,562
+Is there a pink heart in the plastic bag?,282,563
+Does the man in the picture look very happy?,282,564
+Are there many comic books being exhibited?,283,565
+Are the comic books placed inside an exhibit case?,283,566
+Does the man in the picture look very happy?,284,567
+Is the man sitting on the bed?,284,568
+Is there a blue instrument on the wall?,285,569
+Is the wall behind this man in green？,285,570
+Is the man writing or drawing something?,286,571
+Is the man using a quill?,286,572
+Does this man have a watch on his wrist?,287,573
+Does the man look excited?,287,574
+Is the man saying something?,288,575
+Does the man look happy?,288,576
+Is the man in the picture wearing a black undershirt?,289,577
+Is the man in the picture wearing a straw hat?,289,578
+Is the man in the picture wearing a blue shirt?,290,579
+Does the man in the picture look very happy?,290,580
+Is the man using a computer?,291,581
+Does the man have blonde hair?,291,582
+Is this man wearing a brown coat?,292,583
+Is this man crying?,292,584
+Is the man crossing his arms?,293,585
+Does the man in the picture look very happy?,293,586
+Is this man looking at things in front of him?,294,587
+Is the man wearing gloves?,294,588
+Are there many items in the glass cabinet?,295,589
+Is there a young girl standing behind the glass cabinet?,295,590
+Are all the houses in the picture with purple roofs?,296,591
+Is the person in the picture smiling at something?,296,592
+Is the person in the picture smoking a cigarette?,297,593
+Is the person in the picture sitting on a blue couch?,297,594
+Can we see a big grin on the woman's face?,298,595
+Is her hair very long?,298,596
+Is that a blackboard behind this woman?,299,597
+Is this woman sitting on a chair?,299,598
+Does the woman in the picture have brown hair?,300,599
+Does the woman in the picture look happy?,300,600
+Are there many people in the room?,301,601
+Is the floor green?,301,602
+Is the woman in the picture wearing a green jacket?,302,603
+Is the woman in the picture wearing red earrings?,302,604
+Is the woman in the picture sitting on a red chair?,303,605
+Is that a Chinese flag next to her?,303,606
+Are there three people in the picture?,304,607
+Is the one with the glasses wearing a blue jacket?,304,608
+Can you see a candle in the picture?,305,609
+Are they watching TV?,305,610
+Are the people in the picture in a classroom?,306,611
+Is this woman sitting on the desk wearing jeans?,306,612
+Is the woman in the picture looking at something?,307,613
+Is she standing?,307,614
+Can you see someone with a purple bow on his/her head?,308,615
+Is the door red?,308,616
+Can you see a blue photo frame on the wall？,309,617
+Does the woman in the picture look happy?,309,618
+Is the person in the picture holding something in her arms?,310,619
+Does she look calm and relaxed?,310,620
+Is the woman in the picture wearing a red dress?,311,621
+Does she have long hair?,311,622
+Is the wall green?,312,623
+Does the woman look happy?,312,624
+Is there a mug on the table?,313,625
+Is the wall red?,313,626
+Is the woman in the picture driving a red car?,314,627
+Does she look happy and excited?,314,628
+Is the woman in the picture holding a book with red covers?,315,629
+Is she looking at the book?,315,630
+Is the woman in the picture sitting on the sofa?,316,631
+Is there a wallet next to the woman?,316,632
+Does the woman in the picture have short hair?,317,633
+Is the window frame black?,317,634
+Is the house painted in purple?,318,635
+Is it daytime in the picture?,318,636
+Is the woman in the picture talking to someone?,319,637
+Is the woman in the picture wearing a blue jacket?,319,638
+Does the woman in the picture put her hands up?,320,639
+Is she sitting on a chair?,320,640
+Is the woman in the picture smiling?,321,641
+Is she standing?,321,642
+Is the woman in the picture leaning on a desk?,322,643
+Does she look happy?,322,644
+Can we see a woman in the middle of the picture?,323,645
+Is the ceiling blue?,323,646
+Does the woman in the picture look worried?,324,647
+Does she wear blue coat?,324,648
+Is the door blue?,325,649
+Is the wall blue?,325,650
+Does the woman in the picture wear a pink robe?,326,651
+Is the woman in the picture sleeping?,326,652
+Is the woman in the picture standing like a model?,327,653
+Does the woman in the picture look sad?,327,654
+Is there a microphone in front of the woman in the picture?,328,655
+Is there a blue curtain behind the woman?,328,656
+Is the woman in the picture crossing her arms?,329,657
+Is she happy?,329,658
+Are there desks in the picture?,330,659
+Is the picture shown in the image outdoors?,330,660
+Can we see a lamp next to the sofa?,331,661
+Is the woman in the picture sitting on the sofa?,331,662
+Are there clouds in the sky?,332,663
+Does the woman in the picture look happy?,332,664
+Does the woman in the picture look shocked?,333,665
+Is there only one person in the picture?,333,666
+Is there a red clock on the wall?,334,667
+Does the woman in the picture look very happy?,334,668
+Is there a women in the picture?,335,669
+Does she wear a red dress?,335,670
+Is there a pillow on the sofa?,336,671
+Is the pillow white?,336,672
+Is the woman in the picture sitting?,337,673
+Is she talking to someone?,337,674
+Does the woman in the picture have short brown hair?,338,675
+Are there many people in the picture?,338,676
+Is the woman in the picture leaning on a glass cabinet?,339,677
+Does she look happy?,339,678
+Does the woman in the picture look tired?,340,679
+Does the woman in the picture wear a black coat?,340,680
+Is someone patting the woman on her shoulder?,341,681
+Does the woman in the picture look angry?,341,682
+Is that a night scene outside the window?,342,683
+Does the woman in the picture look young?,342,684
+Are there maps in the picture?,343,685
+Is the woman in the picture looking down at the ground?,343,686
+Does the woman in the picture look angry?,344,687
+Is the woman standing outside the house?,344,688
+Is the woman wearing a pink robe?,345,689
+Does she look happy and excited?,345,690
+Is there a colorful umbrella in the picture?,346,691
+Can you see a woman in the picture?,346,692
+Does the person in the picture look upset?,347,693
+Is he standing in a room?,347,694
+Does the person in the picture wear a sailor hat?,348,695
+Does the person in the picture look sad?,348,696
+Does the person in the picture wear a white shirt?,349,697
+Does the person in the picture have long hair?,349,698
+Does the person in the picture wear a striped pink tie?,350,699
+Is he working in a cubicle?,350,700
+Does the man wear a white T-shirt?,351,701
+Does the man look happy?,351,702
+Does the man in the superrmarket?,352,703
+Does the man look excited?,352,704
+Has this man been hit by a car？,353,705
+Is the man wearing a blue suit?,353,706
+Does the man hold a purple knife?,354,707
+Is the man in the living room?,354,708
+Is there a desk lamp in the picture?,355,709
+Is the wall white?,355,710
+Is there a fence in this picture?,356,711
+Does the man wear the shirt?,356,712
+Is this man sitting on a stool?,357,713
+Does the man wear a purple pants?,357,714
+Is there a glass of beer in the picture?,358,715
+Is the table green?,358,716
+Does the man in the picture look sad?,359,717
+Is the wall white?,359,718
+Is this man sleeping?,360,719
+Is there a clock in the picture?,360,720
+Are there toys in the picture?,361,721
+Does he look happy?,361,722
+Is this man wearing a suit?,362,723
+Is the wall white?,362,724
+Is this man wearing red shorts?,363,725
+Is there a table in this picture?,363,726
+Is this quilt purple?,364,727
+Does the man wear a red shirt?,364,728
+Is there a car in the picture?,365,729
+Does the man wear a red shirt?,365,730
+Does the man wear a white shirt?,366,731
+Is the wall red?,366,732
+Is this man holding a child?,367,733
+Is the door in the picture green?,367,734
+Is there a wine bottle in the picture?,368,735
+Does the man wear a green pants?,368,736
+Is the wall blue?,369,737
+Does he look happy?,369,738
+Is this man on the award stage?,370,739
+Is this man holding a book in his hand?,370,740
+Is this man on the phone?,371,741
+Is there a blue backpack in this picture?,371,742
+Is this man wearing a belt around his waist?,372,743
+Is this man facing you directly?,372,744
+Is the wardrobe inside this purple?,373,745
+Is this man wearing a pink coat?,373,746
+Is this man sitting on the sofa?,374,747
+Are the paintings hanging on the wall flowers?,374,748
+Is this man sitting in the kitchen?,375,749
+Is the refrigerator in the picture black?,375,750
+Is this man wearing a tie?,376,751
+Is the door in the picture brown?,376,752
+Is this person wearing a floral long skirt?,377,753
+Is this person wearing green shoes?,377,754
+Is this man talking?,378,755
+Is this man wearing glasses?,378,756
+Is there an orange floor lamp in the picture?,379,757
+Are the curtains in the picture brown?,379,758
+Is there any stone in the picture?,380,759
+Does this man look happy?,380,760
+Is there grass in the picture?,381,761
+Is there a desk lamp in the picture?,381,762
+Is there a window in the picture?,382,763
+Is the color of the floor green?,382,764
+Is this man wearing a purple hat?,383,765
+Is this sleeping bag red?,383,766
+Is the car in the picture purple?,384,767
+Is the brooch this man is wearing in the shape of a leaf?,384,768
+Is there a glass on the table in the picture?,385,769
+Does this man eat with a fork?,385,770
+Is this man watching a hockey game?,386,771
+Is the TV set in the picture green?,386,772
+Is there a radio in the picture?,387,773
+Is the phone in the picture red?,387,774
+Is there a tent in the picture?,388,775
+Does this man look happy?,388,776
+Is there a nuclear energy label in the picture?,389,777
+Is the nuclear energy label in the picture green?,389,778
+Is the cabinet in the picture orange?,390,779
+Is the color inside the cabinet blue?,390,780
+Is this man wearing a hat?,391,781
+Is the car in the picture green?,391,782
+Is the desk lamp in the picture purple?,392,783
+Is this man wearing long sleeved clothes?,392,784
+Is there a window on the door in the picture?,393,785
+Is the man in the picture wearing clothes?,393,786
+Is this man driving?,394,787
+Is this man's car green?,394,788
+Is this man holding a bell in his hand?,395,789
+Is there a glass in the picture?,395,790
+Is this man's hair white?,396,791
+Is this man holding a phone in his hand?,396,792
+Is this man holding a manuscript in his hand?,397,793
+Is the background of the picture green?,397,794
+Is this man holding a microphone in his hand?,398,795
+Is this man's jacket black?,398,796
+Is this man wearing headphones,399,797
+Is this man's tie red,399,798
+Is this man holding his fist,400,799
+Is there a glass on this person's table,400,800
+Is the man holding a manuscript in his hands?,401,801
+Is the picture hanging on the wall black,401,802
+Is this person holding a microphone in their hand,402,803
+Is this man wearing a black jacket,402,804
+Is this man's tie blue,403,805
+Is this man indoors,403,806
+Is there a number 6 on this man's microphone,404,807
+Is this man's tie pink,404,808
+Is this man wearing a brown coat,405,809
+Is there a flower pot on the table,405,810
+Is this man holding a microphone in his hand,406,811
+Is this man wearing a green tie,406,812
+Is this man in an interview,407,813
+Is there a tree in the picture,407,814
+Is this man's jacket brown,408,815
+Is there anyone else in the picture?,408,816
+Is the picture on the wall a woman,409,817
+Is the woman's clothing in the painting green,409,818
+Is this man surprised,410,819
+Is there a painting hanging on the wall,410,820
+Is this person reading the manuscript in his hand,411,821
+Are there any birds in the picture,411,822
+Is the house behind this man on fire,412,823
+Does this man feel very happy,412,824
+Is the color of the wall purple,413,825
+Is this man holding a cup in his hand,413,826
+Is there a computer in the picture,414,827
+Is this man standing,414,828
+Is this man broadcasting the news,415,829
+Are there any flowers on the table,415,830
+Is this man looking at the camera,416,831
+Is there anyone else in the picture,416,832
+Is this man holding a microphone in his hand,417,833
+Are there any flowers in the picture,417,834
+Is this man reading the manuscript in his hand,418,835
+Are there any birds in the picture,418,836
+Is the background of the picture white,419,837
+Is there a tree in the picture,419,838
+Is this man looking elsewhere,420,839
+Is this man standing,420,840
+Is this man laughing,421,841
+Is this man holding a cup in his hand,421,842
+Is there only one person in the picture,422,843
+Is there a monkey in the picture,422,844
+Is there a tree in the picture,423,845
+Is this man driving,423,846
+Is this man smoking,424,847
+Is there another person in the picture,424,848
+Is this man's tie blue,425,849
+Is this man standing,425,850
+Is the color of the wall green,426,851
+Does this man look very sad,426,852
+Is this man wearing green clothes,427,853
+Is there only one person in this picture,427,854
+Is this wall blue,428,855
+Does this man look very happy,428,856
+Is this man wearing a blue tie,429,857
+Is this man holding an ice cream in his hand,429,858
+Is this man holding a child,430,859
+Is this man wearing a green scarf,430,860
+Is there a police officer in the picture,431,861
+Is the wall in the picture pink,431,862
+Is this man reading a manuscript,432,863
+Is there a tree in the picture,432,864
+Are there red banners hanging on the wall,433,865
+Are there any flowers in the picture,433,866
+Is this man in an interview,434,867
+Is there only one person in the picture,434,868
+Is the wall yellow,435,869
+Is there anyone on the picture on the wall,435,870
+Is this man wearing headphones,436,871
+Are there any birds in the picture,436,872
+Is this man holding a newspaper in his hand,437,873
+Are there any glasses on this table,437,874
+Is this man wearing an orange coat,438,875
+Is the number on the microphone 5,438,876
+Is there a house in the picture,439,877
+Is there only one person in the picture,439,878
+Is this person standing on the bridge,440,879
+Is this person wearing a green robe,440,880
+Is this man laughing,441,881
+Is there a water cup on the table,441,882
+Is this man holding a microphone,442,883
+Is this man wearing a green coat,442,884
+Is the house in the picture yellow,443,885
+Is there a car in the picture,443,886
+Is there a magazine in the picture,444,887
+Are there two people in the magazine,444,888
+Are there three people in the picture,445,889
+Is the wall pink,445,890
+Are there any clowns in here,446,891
+Is this person's ears green,446,892
+Is the cap this person is wearing white,447,893
+Is this person's nose orange,447,894
+Is this person holding a notebook in their hand,448,895
+Is this person's pants gray,448,896
+Is this person's bow tie blue,449,897
+Does this person look very happy,449,898
+Is there a staircase in the picture,450,899
+Is this person's hair red,450,900
+Is this person wearing gloves on their hands,451,901
+Is this person looking at a baby,451,902
+Is there a piano in the picture,452,903
+Is this man with his eyes open,452,904
+Is there a tree in the picture,453,905
+Is this man's Hoodie green,453,906
+Is this man's nose red,454,907
+Is this man holding an ice cream in his hand,454,908
+Is this man on fire,455,909
+Is this man very sad,455,910
+Is this man holding a card in his hand,456,911
+Is this man's hair green,456,912
+Is this man wearing white clothes,457,913
+Does this man look very sad,457,914
+Is there a wooden box in the picture,458,915
+Is this man wearing a green shirt,458,916
+Is this man standing on the podium,459,917
+Is this man's bow tie pink,459,918
+Is the curtain in the picture spotted,460,919
+Is this man with his eyes closed,460,920
+Is this man's hand touching his forehead,461,921
+Is the curtain behind green,461,922
+Is this man holding a card bag in his hand,462,923
+Is this man's bow tie orange,462,924
+Is this man drinking water,463,925
+Is this man's eyes open,463,926
+Is this man's boots red,464,927
+Is this man holding a microphone in his hand,464,928
+Is this man wearing gloves on his hands,465,929
+Is this man's pants blue,465,930
+Is this man watching TV,466,931
+Is this TV red,466,932
+Are the spots on this screen green,467,933
+Is this man's Polo shirt red,467,934
+Is this man sitting on a stool,468,935
+Is this man facing us,468,936
+Is this person's hair green,469,937
+Is this person's nose purple,469,938
+Is there a stool in the picture,470,939
+Is this person's eyes open,470,940
+Is this person holding a microphone in their hand,471,941
+Is there a tree in the picture,471,942
+Does this man look nervous,472,943
+Is there only one person in the picture,472,944
+Is there a bookshelf in the picture,473,945
+Is the curtain green,473,946
+Is this man holding a gun in his hand,474,947
+Is this man's boots green,474,948
+Does this man look very sad,475,949
+Is this wall black,475,950
+Is the curtain purple,476,951
+Is this man wearing a hat on his head,476,952
+Is this person with their mouth open,477,953
+Do the pictures on the wall have islands,477,954
+Is this man sitting on a stool,478,955
+Is there a child in the picture,478,956
+Is there bamboo in the picture,479,957
+Does this man wear glasses,479,958
+Does this man look very sad,480,959
+Is the desk lamp in the picture green,480,960
+Is this man sitting on the sofa,481,961
+Is there a vase on the table,481,962
+Does this man look very happy,482,963
+Is there only one person in the picture,482,964
+Is this person playing golf,483,965
+Is the car in the picture green,483,966
+Is the person in the picture wearing an apron,484,967
+Is this person eating turkey,484,968
+Is this person clenching his fists,485,969
+Does this man look very happy,485,970
+Is this person standing on the podium,486,971
+Is this person wearing sunglasses,486,972
+Is this person sitting on a chair,487,973
+Is this person's mouth green,487,974
+Is the screen in the picture red,488,975
+Is this person's hair blue,488,976
+Is the curtain orange,489,977
+Is this person's eyes closed,489,978
+Is this person carrying a bucket in their hand,490,979
+Is this person's tie green,490,980
+Is this person wearing a bachelor's hat,491,981
+Is this person standing indoors,491,982
+Is this person holding chocolate in their hands,492,983
+Does this person look very happy,492,984
+Is this person wearing sunglasses,493,985
+Is this person sitting on the beach,493,986
+Is the door in the picture striped,494,987
+Is this person wearing a blue nightgown,494,988
+Is this man very happy,495,989
+Is this man's boots purple,495,990
+Is this person's hair black,496,991
+Is the color of this wall blue,496,992
+Is one of the light bulbs on,497,993
+Are there four buttons on the wall,497,994
+Is this person wearing a bracelet on their hand,498,995
+Is this person wearing red shorts,498,996
+Is there anything on this person's forehead,499,997
+Is this person's eyes open,499,998
+Is this person holding a glass in their hand,500,999
+Is there only one person in the picture,500,1000
+Is there a pillar in this picture,501,1001
+Is this man wearing green long sleeves,501,1002
+Is this man's hair blue,502,1003
+Is this person wearing glasses,502,1004
+Is this person holding a brown bag in their hand,503,1005
+Is the ceiling striped,503,1006
+Is this man wearing suspenders,504,1007
+Is this man holding snacks in his hand,504,1008
+Is this man giving a speech,505,1009
+Is this man holding a microphone,505,1010
+Is there a window on this door,506,1011
+Does this man look very sad,506,1012
+Does this man look very angry,507,1013
+Is this man wearing glasses,507,1014
+Is this man sitting on a stool,508,1015
+Is this man wearing a tie,508,1016
+Is this man holding beer in his hand,509,1017
+Is this man standing,509,1018
+Is this man holding a phone in his hand,510,1019
+Is this man outdoors,510,1020
+Is this man holding beer in his hand,511,1021
+Is this man sitting on a stool,511,1022
+Is this man holding a machine in his hand,512,1023
+Is this man's eyes closed,512,1024
+Does this man look very sad,513,1025
+Is the water pipe in the picture clean,513,1026
+Is there a wine bottle in the picture,514,1027
+Is there a microwave oven in the picture,514,1028
+Is there a pointer in the picture,515,1029
+Is this man's hair pink,515,1030
+Is this person sitting with many people,516,1031
+Is this person wearing a necklace,516,1032
+Is there a checkered pattern on the wall,517,1033
+Are there two people in the picture,517,1034
+Is this person sitting on a stool,518,1035
+Is there a vase on the table,518,1036
+Is there a stain on this person's face,519,1037
+Is this person with their eyes open,519,1038
+Is the door in the picture open,520,1039
+Does this man look very sad,520,1040
+Is this person's clothes green,521,1041
+Is this person wearing sunglasses,521,1042
+Is this man holding a Stemware in his hand,522,1043
+Is this person wearing a bow tie,522,1044
+Is there a cup on the table,523,1045
+Is this person talking,523,1046
+Is this person holding a gun in their hand,524,1047
+Is the hat this person is wearing green,524,1048
+Are there two people in the picture,525,1049
+Is this person sitting on a chair,525,1050
+Is this person with their eyes closed,526,1051
+Is the sofa this person is sitting on white,526,1052
+Is there a window in the room,527,1053
+Is this person holding flowers in their hands,527,1054
+Is the color of the wall brown,528,1055
+Does this person look happy,528,1056
+Is the person in the picture sitting on a chair,529,1057
+Is there only one person in the picture,529,1058
+Is this person holding a beer glass in their hand,530,1059
+Is this person sitting on a stool,530,1060
+Is this person's hair red,531,1061
+Does this person look happy,531,1062
+Is there a glass window in the room,532,1063
+Is this person on the phone,532,1064
+Is this person moving the machine,533,1065
+Is the machine in the picture red,533,1066
+Is this person holding a glass in their hand,534,1067
+Is there only one person in the picture,534,1068
+Is this man wearing a gray coat,535,1069
+Is the machine in the picture good,535,1070
+Is the man in the picture surprised,536,1071
+Is this man's clothes blue,536,1072
+Is this man sitting on the ground,537,1073
+Is this curtain pink,537,1074
+Is the wall striped,538,1075
+Is the backpack in the picture blue,538,1076
+Is this man standing on the grass,539,1077
+Are the boots this man is wearing blue,539,1078
+Is this person squinting his eyes,540,1079
+Is this man wearing glasses,540,1080
+Does this man look unhappy,541,1081
+Is there a painting hanging on the wall,541,1082
+Is this person holding onto his straps,542,1083
+Does this man have a beard,542,1084
+Does this person look very scared,543,1085
+Does this person wear glasses,543,1086
+Is the door in the picture blue,544,1087
+Is this person talking to others,544,1088
+Is this person wearing glasses,545,1089
+Is this person holding a cup in their hand,545,1090
+Is this person using a computer,546,1091
+Is this person standing,546,1092
+Is this person wearing pink clothes,547,1093
+Is this person wearing glasses,547,1094
+Is this person wearing a necklace around their neck,548,1095
+Is this person wearing shorts,548,1096
+Is this person eating,549,1097
+Is this person wearing a bracelet,549,1098
+Is this person wearing a necklace,550,1099
+Is this person wearing glasses,550,1100
+Is this person talking to others,551,1101
+Is this person wearing earrings,551,1102
+Is this person reading a paper,552,1103
+Is this person reading a book,552,1104
+Is this person eating,553,1105
+Has this person opened her mouth,553,1106
+Is this person carrying a backpack,554,1107
+Is this person wearing a green skirt,554,1108
+Is this person wearing a red dress,555,1109
+Is this person sitting on the green sofa,555,1110
+Is this person looking in the mirror,556,1111
+Does this person look happy,556,1112
+Is there a glass window in the picture,557,1113
+Is this person wearing earrings,557,1114
+Is this person facing us with their back,558,1115
+Is this person wearing a bracelet,558,1116
+Is this person wearing a coat,559,1117
+Is this person pulling the cart,559,1118
+Is this door red,560,1119
+Is this person wearing pink slippers,560,1120
+Is this door curtain green,561,1121
+Is the dress this person is wearing blue,561,1122
+Is this person holding their fists in both hands,562,1123
+Is there only one person in the picture,562,1124
+Is this person sitting on the bed,563,1125
+Is this person's bed sheet yellow,563,1126
+Is this person standing on a box,564,1127
+Is this person's skirt green,564,1128
+Is this person surprised,565,1129
+Is the floor in the picture red,565,1130
+Is this person holding a hat in their hand,566,1131
+Is this door closed,566,1132
+Is this person wearing red slippers,567,1133
+Is this person indoors,567,1134
+Is this person sitting on the sofa,568,1135
+Is this person wearing a green T-shirt,568,1136
+Is this person holding a pink box,569,1137
+Is this person standing on the ground,569,1138
+Is this person lying in bed,570,1139
+Is the pillow in the picture red,570,1140
+Is this person's backpack blue,571,1141
+Does this person look happy,571,1142
+Is this person sitting on the purple sofa,572,1143
+Is this person wearing a necklace,572,1144
+Does this person look very sad,573,1145
+Is this person wearing a bow on their head,573,1146
+Are the flowers in the picture red,574,1147
+Does this person have a spoon in their hand,574,1148
+Is this person's eyes closed,575,1149
+Is the hat this person is wearing blue,575,1150
+Does this person look very angry,576,1151
+Is this person wearing a necklace,576,1152
+Are there any plates on the table,577,1153
+Is this person holding a fork in her hand,577,1154
+Is this person holding a hat in their hand,578,1155
+Does this person look very happy,578,1156
+Is this person sitting on a stool,579,1157
+Is this person facing us,579,1158
+The person in the picture is holding a book in their hand,580,1159
+The person in the picture is standing at the table,580,1160
+The picture shows the night,581,1161
+The person in the picture is wearing a hat,581,1162
+Is the person in the picture sitting on the bed,582,1163
+Is the person in the picture sitting on the sofa,582,1164
+The person in the picture is wearing a hat,583,1165
+The person in the picture is wearing a necklace,583,1166
+The person in the picture is wearing a necklace,584,1167
+Does the person in the picture wear spectacles,584,1168
+There is a table in the picture,585,1169
+Is the person in the picture a police officer,585,1170
+There is a small car in the picture,586,1171
+There are many people in the picture,586,1172
+The person in the picture is wearing a necklace,587,1173
+The person in the picture is wearing a hat,587,1174
+There is a child alone in the hallway in the picture,588,1175
+There is an adult in the picture,588,1176
+"In the picture, there is a child holding a sword in their hand",589,1177
+There is a child indoors in the picture,589,1178
+There are children in the picture,590,1179
+The person in the picture is wearing a hat,590,1180
+The person in the picture is wearing a hat,591,1181
+The person in the picture is wearing a necklace,591,1182
+The child in the picture is sitting,592,1183
+The child in the picture is bald,592,1184
+The child in the picture is outdoors,593,1185
+The child in the picture is bald,593,1186
+The child in the picture is wearing a green skirt,594,1187
+There is an adult in the picture,594,1188
+There is a child in the picture,595,1189
+There is an adult in the picture,595,1190
+The person in the picture is wearing a necklace,596,1191
+The baby is wearing glasses,596,1192
+There are many dishes on the dining table in the picture,597,1193
+There is a water cup on the dining table in the picture,597,1194
+The person in the picture is wearing glasses,598,1195
+The person in the picture is holding the baby,598,1196
+The person in the picture is holding the baby,599,1197
+The baby is wearing glasses,599,1198
+The person in the picture is wearing a red skirt,600,1199
+The person in the picture is sitting on the bed,600,1200
+The person in the picture is holding a letter in their hand,601,1201
+The person in the picture is wearing a bathrobe,601,1202
+The person in the picture is wearing a necklace,602,1203
+The person in the picture is wearing a bathrobe,602,1204
+The person in the picture is wearing a pink dress,603,1205
+The person in the picture is wearing a bathrobe,603,1206
+The person in the picture is wearing a bathrobe,604,1207
+The person in the picture is wearing a necklace,604,1208
+The person in the picture is wearing a bathrobe,605,1209
+The person in the picture is making a phone call,605,1210
+The person in the picture is making a phone call,606,1211
+The person in the picture is crying,606,1212
+The person in the picture is sitting on the bed,607,1213
+The person in the picture is wearing a hat,607,1214
+The person in the picture is sitting on the sofa,608,1215
+There is a small boat outside the window in the picture,608,1216
+The person in the picture is wearing a necklace,609,1217
+The person in the picture is showing their abdominal muscles,609,1218
+The person in the picture is wearing a necklace,610,1219
+The person in the picture is making a phone call,610,1220
+can you feel love,611,1221
+The person in the picture is crying,611,1222
+The person in the picture is sitting at the table,612,1223
+The person in the picture is eating,612,1224
+The person in the picture is wearing a black skirt,613,1225
+The person in the picture is wearing a fur coat,613,1226
+The person in the picture is eating,614,1227
+The person in the picture is making a phone call,614,1228
+The person in the picture is wearing a necklace,615,1229
+The person in the picture is wearing a hat,615,1230
+The person in the picture is wearing a skirt,616,1231
+The person in the picture is lying on the sofa,616,1232
+There are children in the picture,617,1233
+The person in the picture is in the kitchen,617,1234
+The person in the picture is wearing a skirt,618,1235
+There are children in the picture,618,1236
+The person in the picture is wearing a skirt,619,1237
+There are children in the picture,619,1238
+The person in the picture is in the kitchen,620,1239
+There are children in the picture,620,1240
+The person in the picture is showing their abdominal muscles,621,1241
+The person in the picture is a man,621,1242
+The person in the picture is wearing a skirt,622,1243
+The person in the picture is lifting weights,622,1244
+The person in the picture is wearing a hat,623,1245
+The person in the picture is lying on the sofa,623,1246
+The person in the picture is lifting weights,624,1247
+There are children in the picture,624,1248
+The person in the picture is wearing a skirt,625,1249
+Only adults in the picture,625,1250
+The person in the picture is wearing a hat,626,1251
+No one in the picture,626,1252
+There are two people in the picture,627,1253
+The person in the picture is wearing a necklace,627,1254
+The room in the picture has curtains,628,1255
+The room in the picture has a door,628,1256
+The person in the picture is wearing a bathrobe,629,1257
+The person in the picture is wearing a necklace,629,1258
+The room in the picture has curtains,630,1259
+The room in the picture has a door,630,1260
+The person in the picture is wearing a necklace,631,1261
+The person in the picture wears glasses,631,1262
+The person in the picture has many holes in their hair,632,1263
+The person in the picture is reading,632,1264
+There are children in the picture,633,1265
+The person in the picture is reading,633,1266
+The person in the picture is reading,634,1267
+The person in the picture is in the car,634,1268
+The person in the picture has blue hair,635,1269
+The person in the picture is wearing a hat,635,1270
+The person in the picture is wearing a necklace,636,1271
+There are children in the picture,636,1272
+The person in the picture is wearing a necklace,637,1273
+There are children in the picture,637,1274
+The person in the picture has a bucket,638,1275
+The person in the picture is wearing a hat,638,1276
+The door in the picture is opened,639,1277
+The door in the picture is closed,639,1278
+The person in the picture has blue hair,640,1279
+The person in the picture is wearing a hat,640,1280
+The door in the picture is closed,641,1281
+The door in the picture is opened,641,1282
+The person in the picture has blue hair,642,1283
+The person in the picture is wearing a hat,642,1284
+The person in the picture is a woman,643,1285
+The person in the picture is in the sauna room,643,1286
+The person in the picture is in the sauna room,644,1287
+There are children in the picture,644,1288
+The person in the picture is a woman,645,1289
+Does the person in the picture wear spectacles,645,1290
+The person in the picture is very happy,646,1291
+The person in the picture has a big beard,646,1292
+The person in the picture has a big beard,647,1293
+The person in the picture is leaning against the table,647,1294
+The person in the picture is leaning against the table,648,1295
+The person in the picture has a big beard,648,1296
+The person in the picture is leaning against the table,649,1297
+The person in the picture is a child,649,1298
+The person in the picture is giving a speech,650,1299
+The person in the picture is leaning against the table,650,1300
+The person in the picture is wearing a suit and tie,651,1301
+The person in the picture is in the car,651,1302
+The person in the picture is very frustrated,652,1303
+The person in the picture is in the car,652,1304
+The person in the picture is wearing a suit and tie,653,1305
+The person in the picture is a child,653,1306
+The person in the picture is very happy,654,1307
+The picture shows the night,654,1308
+The person in the picture is at the table,655,1309
+Can you feel love,655,1310
+The person in the picture is giving a speech,656,1311
+The person in the picture is leaning against the table,656,1312
+The two in the picture are on the bed,657,1313
+The two in the picture are on the sofa,657,1314
+The person in the picture has their hands together,658,1315
+The person in the picture is a child,658,1316
+The person in the picture is wearing a suit and tie,659,1317
+The person in the picture is smiling,659,1318
+The door in the picture is open,660,1319
+The person in the picture is speaking to someone else,660,1320
+The person in the picture is speaking to someone else,661,1321
+The person in the picture is smiling,661,1322
+There are many files on the table in the picture,662,1323
+The person in the picture is dancing,662,1324
+The person in the picture is wearing a suit and tie,663,1325
+The person in the picture is dressed as Uncle Uncle Sam,663,1326
+The person in the picture is giving a speech,664,1327
+The person in black in the picture is wearing sunglasses,664,1328
+The person in the picture is dancing,665,1329
+The person in the picture is speaking to someone else,665,1330
+The person in the picture is smiling,666,1331
+There is only one person in the picture,666,1332
+The table in the picture has a water cup,667,1333
+There is a briefcase on the table in the picture,667,1334
+The person in the picture is on the Rostra,668,1335
+The person in the picture is driving,668,1336
+The person in the picture is holding a hammer,669,1337
+The person in the picture wears glasses,669,1338
+There is a briefcase on the table in the picture,670,1339
+There are many people in the picture,670,1340
+There is a water cup on the table in the picture,671,1341
+The person in the picture is wearing a white safety helmet,671,1342
+The person in the picture is on the Rostra,672,1343
+The person in the picture is crying,672,1344
+The person in the picture is wearing a fur coat,673,1345
+The person in the picture wears glasses,673,1346
+There is a briefcase on the table in the picture,674,1347
+There is only one person in the picture,674,1348
+There are trees in the picture,675,1349
+There is a car in the picture,675,1350
+The person in the picture is speaking to someone else,676,1351
+There is only one person in the picture,676,1352
+The person in the picture is smiling,677,1353
+The person in the picture is crying,677,1354
+The person in the picture is dressed as Uncle Uncle Sam,678,1355
+There is someone standing on the roof in the picture,678,1356
+The person in the picture is giving a speech,679,1357
+The person in the picture is wearing a suit and tie,679,1358
+The person in the picture is giving a speech,680,1359
+The person in the picture is leaning against the table,680,1360
+The person in the picture is giving a speech,681,1361
+There is a newspaper on the table,681,1362
+The person in the picture is wearing a white safety helmet,682,1363
+The person in the picture is giving a speech,682,1364
+The person in black in the picture is wearing sunglasses,683,1365
+The person in the picture is indoors,683,1366
+There is someone standing on the roof in the picture,684,1367
+The person in the picture is indoors,684,1368
+Is there a police officer in the picture,685,1369
+The person in the picture is smiling,685,1370
+The person in the picture is giving a speech,686,1371
+The person in the picture is smiling,686,1372
+The person in the picture is leaning against the table,687,1373
+Does the person in the picture wear spectacles,687,1374
+The person in the picture is sitting on a chair,688,1375
+There are two people in the picture,688,1376
+The person in the picture is wearing a suit and tie,689,1377
+Does the person in the picture wear spectacles,689,1378
+There is a money bag on the table,690,1379
+only one person,690,1380
+There is a newspaper on the table,691,1381
+There is a water cup on the table,691,1382
+The person in the picture is smiling,692,1383
+The person in the picture is crying,692,1384
+The person in the picture is giving a speech,693,1385
+The person in the picture is eating,693,1386
+The person in the picture is very happy,694,1387
+The person in the picture is very sad,694,1388
+There are many mice in the picture,695,1389
+There is a sofa in the picture,695,1390
+There is a sofa in the picture,696,1391
+The person in the picture is very sad,696,1392
+There are many pumpkins here,697,1393
+The picture shows daytime,697,1394
+The person in the picture is sitting on the sofa,698,1395
+The person in the picture is sitting on the bed,698,1396
+The person in the picture is outdoors,699,1397
+The person in the picture is wearing a skirt,699,1398
+The person in the picture is very happy,700,1399
+The person in the picture is very sad,700,1400
+Sitting at the dining table in the picture,701,1401
+The person in the picture is wearing a skirt,701,1402
+The person in the picture is wearing pink clothes,702,1403
+The person in the picture is wearing black clothes,702,1404
+The person in the picture is very happy,703,1405
+The person in the picture is very sad,703,1406
+There is a door in the picture,704,1407
+No one in the picture,704,1408
+There is a door in the picture,705,1409
+The person in the picture is outdoors,705,1410
+There is a pillow in the picture,706,1411
+There are windows in the picture,706,1412
+The person in the picture is at home,707,1413
+The person in the picture is an adult,707,1414
+There is a person in uniform in the picture,708,1415
+The person in the picture is lying on a pillow,708,1416
+The person in the picture is wearing a Baseball uniform and Baseball glove,709,1417
+The person in the picture is at home,709,1418
+Does the person in the picture wear spectacles,710,1419
+"In the background of the picture, there are many cabinets to drink from",710,1420
+"In the background of the picture, there are many cabinets to drink from",711,1421
+There are two people in the picture,711,1422
+There are mountains in the picture,712,1423
+There are many people in the picture,712,1424
+The picture shows daytime,713,1425
+The person in the picture is an adult,713,1426
+The person in the picture is standing,714,1427
+The person in the picture is crying,714,1428
+The person in the picture is lying on a pillow,715,1429
+The person in the picture is wearing a hat,715,1430
+The child in the picture is drinking boxed milk,716,1431
+The child in the picture is holding a phone,716,1432
+There are many houses in the background of the picture,717,1433
+There are many children in the picture,717,1434
+The person in the picture is in a wheelchair,718,1435
+The person in the picture is a child,718,1436
+"The person in the picture is outside, and it is night outside",719,1437
+The person in the picture sits on a sofa,719,1438
+The person in the picture is lying on a bed covered with a red quilt,720,1439
+The person in the picture sits on a sofa,720,1440
+There are a lot of people in the picture,721,1441
+There was only one child,721,1442
+"There are shrubs, plants and fences in the picture",722,1443
+The person in the picture is showing muscles,722,1444
+There was only one child,723,1445
+There is no one in the picture,723,1446
+The person in the picture sits on a sofa,724,1447
+The child in the picture is leaning against a table,724,1448
+There are a lot of desks in the picture,725,1449
+There was only one child,725,1450
+The person in the picture is showing muscles,726,1451
+The person in the picture is crying,726,1452
+There are a lot of books on the wall behind it,727,1453
+The picture is reading,727,1454
+The person in the picture holds a box of milk,728,1455
+The person in the picture is on the phone,728,1456
+The man in the picture pulls a rope,729,1457
+The person in the picture is sitting on a sofa,729,1458
+There are a lot of buildings in the picture,730,1459
+The person in the picture is sad,730,1460
+The child in the picture is leaning against a table,731,1461
+There is a bed in the picture,731,1462
+The child in the picture is playing on his knees on the carpet,732,1463
+The child in the picture is playing on his knees on the bed,732,1464
+The person in the picture is pointing to the right,733,1465
+The person in the picture is lying on a bed,733,1466
+Is the person in the picture a child?,734,1467
+Is this person an adult,734,1468
+Is there a table in the picture,735,1469
+Is the person in the picture sad,735,1470
+Is the person in the picture a child?,736,1471
+Is this person an adult,736,1472
+Is the person in the picture a child?,737,1473
+Is this person an adult,737,1474
+Does the person in the picture wear spectacles,738,1475
+Is this person an adult,738,1476
+Are there flowers in the bushes in the picture,739,1477
+Is this person an adult,739,1478
+Does the person in the picture wear spectacles,740,1479
+Is the environment in the picture night?,740,1480
+Does the person in the picture wear spectacles,741,1481
+Does the person in the picture wear spectacles,741,1482
+Does the person in the picture wear spectacles,742,1483
+Are there many children in the picture?,742,1484
+Does the person in the picture wear spectacles,743,1485
+There are many wine bottles on the wall in the picture,743,1486
+Are there many children in the picture?,744,1487
+Are there a lot of cars in the picture,744,1488
+The window in the picture is daytime,745,1489
+The window in the picture is at night,745,1490
+There is a man standing in the picture,746,1491
+There is a person sitting in the picture,746,1492
+Picture of a man lying on a hospital bed,747,1493
+Picture of the person sitting on the sofa,747,1494
+The person in the picture holds clothes in his hands,748,1495
+"In the picture, it is daytime outside the window",748,1496
+There are two people in the picture,749,1497
+The man in the picture wears glasses,749,1498
+The person in the picture is yelling at the other side of the phone,750,1499
+The people in the picture are happy,750,1500
+The person in the picture is indoors,751,1501
+The person pictured here is a police officer,751,1502
+The person in the picture lowers his head and is sad,752,1503
+The people in the picture are happy,752,1504
+The person in the picture points to one place,753,1505
+The person in the picture speaks from the podium,753,1506
+There are many viewers in the picture,754,1507
+There is only one person in the picture,754,1508
+The table pictured here is a whole apple and an eaten apple,755,1509
+The person in the picture is drinking tea,755,1510
+The man in the picture prepares to get a telephone,756,1511
+There are many cars in the picture,756,1512
+The person in the picture is reading a book,757,1513
+Is the person in the picture outside?,757,1514
+The person in the picture is draped over a towel over his shoulder,758,1515
+There are a lot of wine bottles in the picture,758,1516
+There are many cars in the picture,759,1517
+There are many people in the picture,759,1518
+The ground in the picture is covered with dead yellow fallen leaves,760,1519
+The person in the picture is lying on a bed,760,1520
+There are a lot of wine bottles in the picture,761,1521
+There are windows on the wall in the picture,761,1522
+"There is a champagne glass in the picture, with half a glass of wine in the glass",762,1523
+The person in the picture wears glasses,762,1524
+The people in the picture are angry,763,1525
+The people in the picture are happy,763,1526
+The person pictured here is next to the table,764,1527
+The person in the picture speaks from the podium,764,1528
+The person pictured here is next to the table,765,1529
+The person in the picture speaks from the podium,765,1530
+The person in the picture sits at a table,766,1531
+There are multiple people in the picture,766,1532
+The hair of the person in the picture is gray,767,1533
+Is the person in the picture wearing glasses?,767,1534
+The person in the picture is wearing shorts and carrying a red school bag,768,1535
+Is there a table in the picture,768,1536
+Does the person in the picture wear glasses?,769,1537
+Is it daytime in the picture?,769,1538
+Is the man in the picture holding a double-barreled shotgun?,770,1539
+Are the people in the picture happy?,770,1540
+Is the person in the picture wearing a suit and tie?,771,1541
+Is the background in the picture a park?,771,1542
+Is the person in the picture a bartender who works at a bar?,772,1543
+Is the person in the picture a police officer?,772,1544
+The person in the picture is yelling,773,1545
+Can you feel love,773,1546
+The person in the picture is arguing with other people,774,1547
+There is only one person in the picture,774,1548
+There is a table in the picture,775,1549
+The person in the picture is outdoors,775,1550
+The person in the picture is driving,776,1551
+The person in the picture has his eyes open,776,1552
+"In the picture, there is a TV on the wall",777,1553
+The person in the picture is watching TV,777,1554
+There is a person in the picture,778,1555
+There is no one in the picture,778,1556
+The person in the picture is crying,779,1557
+The person in the picture is laughing,779,1558
+The person in the picture sits on a sofa,780,1559
+The person in the picture sits on a bed,780,1560
+The man in the picture is wearing a green jacket,781,1561
+Is there a table in the picture,781,1562
+The person pictured here is a bartender who works at a bar,782,1563
+The person in the picture is a police officer working in a police department,782,1564
+The man in the picture wears a crown,783,1565
+The person pictured here is a police officer or police officer,783,1566
+The person in the picture gives a speech next to the podium,784,1567
+There are a lot of listeners listening to the speech,784,1568
+The person in the picture stands next to the bar table,785,1569
+The person pictured here is a police officer or police officer,785,1570
+The person in the picture wears a blue bow,786,1571
+The person in the picture is a child,786,1572
+The man in the picture is wearing a tuxedo and holding a cane,787,1573
+People are running on the way,787,1574
+The person in the picture is sitting in the judge's seat and giving a speech,788,1575
+There are a lot of people in the picture,788,1576
+The human hair in the picture is gray,789,1577
+There are children in the picture,789,1578
+Is there a wine bottle in the window?,790,1579
+Does the person in the picture wear spectacles,790,1580
+The person in the picture naturally sat on the sofa,791,1581
+The person in the picture is lying comfortably on the bed,791,1582
+The man in the picture sits on a throne with a crown,792,1583
+The people in the picture look poor,792,1584
+The finger of the person in the picture is pointing to the left,793,1585
+The person in the picture is wearing a casual T-shirt,793,1586
+There is only one person in a black T-shirt,794,1587
+The person in the picture is in the park,794,1588
+There is a big tree behind the person in the picture,795,1589
+The environment in the picture is daytime,795,1590
+One of the two people in the picture wears spectacles,796,1591
+There is no one in the picture,796,1592
+Does the person in the picture have a beard,797,1593
+The person in the picture wears a hat,797,1594
+Is there a window on the wall in the picture?,798,1595
+Is the person in the picture in the car?,798,1596
+Does anyone in the picture feel sad?,799,1597
+Is there a car in the picture,799,1598
+Is the person in the picture making a plane,800,1599
+Is the person in the picture drinking water,800,1600
+Is the person in the picture on the lawn,801,1601
+Isn't there a tree in the picture,801,1602
+Is the person in the picture shopping,802,1603
+Isn't there a shopping cart in the picture,802,1604
+Is the person in the picture in the church,803,1605
+Is the person in the picture praying,803,1606
+Is the person in the picture looking at the photo,804,1607
+Is the person in the picture talking to themselves,804,1608
+Is the person in the picture looking at the scenery,805,1609
+Didn't the person in the picture wear glasses,805,1610
+Is the person in the picture very sad,806,1611
+Are the people in the picture very satisfied,806,1612
+Is the person in the picture on the sofa,807,1613
+Is the person in the picture keeping silent,807,1614
+Communication between people in pictures,808,1615
+The person in the picture is sleeping,808,1616
+Is the door in the picture open,809,1617
+The person in the picture is not in the bedroom,809,1618
+Is this the surveillance room in the picture,810,1619
+Is the person in the picture watching surveillance,810,1620
+Is it daytime in the picture,811,1621
+Is the thief in the picture,811,1622
+Is the person in the picture outside the window,812,1623
+Is the person in the picture chatting,812,1624
+Is it in the surveillance room in the picture,813,1625
+Is the person in the picture fishing,813,1626
+The person in the picture is looking up,814,1627
+Is the person in the picture whispering,814,1628
+Is the person in the picture hugging,815,1629
+Is the person in the picture very ordinar,815,1630
+Is the person in the picture on the lawn,816,1631
+Is the person in the picture with their hands folded together,816,1632
+Is the person in the picture during the day,817,1633
+Is the person in the picture dancing,817,1634
+Is rowing in the picture,818,1635
+Is it indoors in the picture,818,1636
+Is it in the river in the picture,819,1637
+Is rowing in the picture,819,1638
+Is the person in the picture eating,820,1639
+Is the person in the picture a good person,820,1640
+Is the person in the picture in the restaurant,821,1641
+Is the person in the picture eating,821,1642
+Is the person in the picture exercising,822,1643
+Are the people's feet on the ground in the picture,822,1644
+Is the person in the picture sad,823,1645
+Isn't the person in the picture on the lawn,823,1646
+Is the person in the picture sighing,824,1647
+Isn't that the announcer in the picture,824,1648
+Is the person in the picture on the pillow,825,1649
+Is the person in the picture sad,825,1650
+Is the person in the picture praying,826,1651
+Is the person in the picture during the day,826,1652
+Is the person in the picture kneeling on the ground,827,1653
+Is the person in the picture blaming themselves,827,1654
+Is the person in the picture in the restaurant,828,1655
+Is the person in the picture drinking water,828,1656
+Is the person in the picture writing,829,1657
+Is the person in the picture speaking,829,1658
+Is the person in the picture in the yard,830,1659
+Is the person in the picture having a picnic,830,1660
+Is the person in the picture in the recording studio,831,1661
+Does the person in the picture have a beard,831,1662
+Is the person in the picture in the forest,832,1663
+Isn't the person in the picture carrying a shoulder bag,832,1664
+Is the person in the picture in the church,833,1665
+Are people holding hands in the picture,833,1666
+Is the person in the picture holding a wallet,834,1667
+Is the person in the picture a pickpocket,834,1668
+Is the person in the picture in the surveillance room,835,1669
+Is the person in the picture working hard,835,1670
+Is the person in the picture in the classroom,836,1671
+Is the person in the picture giving a lecture,836,1672
+Is the person in the picture a muscular man,837,1673
+Is the person in the picture wearing clothes,837,1674
+Is the person in the picture wearing glasses,838,1675
+Is the person in the picture sleeping,838,1676
+Is the person in the picture pruning plants,839,1677
+Is the person in the picture watering,839,1678
+Is there a thief in the picture,840,1679
+Isn't anyone wearing pajamas in the picture,840,1680
+Is there a police car in the picture,841,1681
+Is there a police officer in the picture,841,1682
+Is the person in the picture in the study,842,1683
+Is the person in the picture on the ground,842,1684
+Is the person in the picture buying something,843,1685
+Is the person in the picture stealing something,843,1686
+Is the person in the picture surprised,844,1687
+Is the person in the picture eating,844,1688
+Is the person in the picture wearing a jacket,845,1689
+Isn't the person in the picture wearing a hat,845,1690
+Is the person in the picture outside the door,846,1691
+Are the people in the picture very happy,846,1692
+Is there a car in the picture,847,1693
+Is the person in the picture a bad person,847,1694
+Is there anyone in the picture being interviewed,848,1695
+Is the person in the picture a real person,848,1696
+Is there anyone in the basement in the picture,849,1697
+Is anyone in the picture happy,849,1698
+Is there anyone in class in the picture,850,1699
+Is there anyone whispering in the picture,850,1700
+Is there anyone in the picture holding their arms in both hands,851,1701
+Is anyone in the picture happy,851,1702
+Is there anyone in the park in the picture,852,1703
+Is there anyone in the picture without gloves,852,1704
+Is there a poster in the picture,853,1705
+Are there many people in the picture,853,1706
+Is the person in the picture a gentleman,854,1707
+Is the person in the picture very tall,854,1708
+Is there a cow in the picture,855,1709
+Do the cows in the picture have no keepers,855,1710
+Is the person in the picture on the ground,856,1711
+Is the person in the picture dead,856,1712
+Is the person in the picture playing baseball,857,1713
+Didn't the person in the picture wear gloves,857,1714
+Is the person in the picture hanging in the air,858,1715
+Is the person in the picture Superman,858,1716
+Is there a bicycle in the picture,859,1717
+Is there anyone in the picture,859,1718
+Is the person in the picture wearing a necklace,860,1719
+Are people riding bicycles in the picture,860,1720
+Is there anyone in the picture,861,1721
+Is the person in the picture inside the wall,861,1722
+Is the person in the picture crying on the ground,862,1723
+Is the person standing in the picture,862,1724
+Is the person in the picture a homeless person,863,1725
+Isn't the person in the picture carrying garbage,863,1726
+Is the person in the picture holding a stick,864,1727
+Is the person in the picture tug of war,864,1728
+Are the people in the picture communicating,865,1729
+Is the person in the picture apologizing,865,1730
+Is the person in the picture naked,866,1731
+Are the people in the picture unhappy,866,1732
+Is the person in the picture holding the box,867,1733
+Is the person in the picture angry,867,1734
+Is there a meeting in the picture,868,1735
+Is there a meeting in the picture,868,1736
+Is the person in the picture on the red carpet,869,1737
+Is the person in the picture in the room,869,1738
+Is the person in the picture playing with a music box,870,1739
+Is the person in the picture working,870,1740
+Does the person in the picture have a belt,871,1741
+Is the person in the picture angry,871,1742
+Did the person in the picture fall to the ground,872,1743
+Is the person in the picture touching porcelain,872,1744
+Are the people in the picture enjoying it,873,1745
+Is the person in the picture indoors,873,1746
+Is the person in the picture on the chair,874,1747
+Is the person in the picture eating,874,1748
+Is the person in the picture meeting with their boss,875,1749
+Is the person in the picture sleeping,875,1750
+Is the person in the picture on the TV,876,1751
+Isn't the person in the picture being interviewed,876,1752
+Is the person in the picture wearing headphones,877,1753
+Is the person in the picture under the tree,877,1754
+Is the person in the picture threatening,878,1755
+Are the people in the picture very happy,878,1756
+Is the person in the picture discussing,879,1757
+Is the person in the picture outdoors,879,1758
+Is the person in the picture wearing a cardboard box,880,1759
+Is the person in the picture a robot,880,1760
+Is the person in the picture in class,881,1761
+Is the person in the picture insulting others,881,1762
+Is the person in the picture in the cave,882,1763
+Are the people in the picture communicating,882,1764
+Are there many people in the picture,883,1765
+Isn't there a bag in the picture,883,1766
+Is the person in the picture moving things,884,1767
+Isn't there a bicycle in the picture,884,1768
+Is the person in the picture queuing,885,1769
+Is the person in the picture scheming for evil,885,1770
+Is the person in the picture talking to themselves,886,1771
+Is the person in the picture angry,886,1772
+Is the person in the picture in the park,887,1773
+Is the person in the picture on the swing,887,1774
+Is the person in the picture in the kitchen,888,1775
+Is the person in the picture cooking,888,1776
+Is the person in the picture looking in the mirror,889,1777
+Is the person in the picture looking in the mirror,889,1778
+Is the person in the picture playing with a slingshot,890,1779
+Is the person in the picture climbing a tree,890,1780
+Is there a stroller in the bedroom in the picture,891,1781
+Is there no one in the bedroom in the picture,891,1782
+Is the person in the picture on the bedroom bed,892,1783
+Isn't there a mirror in the bedroom in the picture,892,1784
+Is the person in the picture fighting,893,1785
+Are the people in the picture very happy,893,1786
+Is the background of the person in the picture green,894,1787
+Is the person in the picture a child,894,1788
+Is the person in the picture apologizing,895,1789
+Is the person in the picture refusing,895,1790
+Do you have subtitles in the picture,896,1791
+Is the person in the picture dancing,896,1792
+Is the person in the picture holding flowers,897,1793
+"The person in the picture is arm in arm, but",897,1794
+Is the person in the picture being affected,898,1795
+Is the person in the picture apologizing,898,1796
+Are the people in the picture happy,899,1797
+Are the people in the picture communicating,899,1798
+Is the room in the picture a mess,900,1799
+Is it very clean in the picture,900,1800
+Is the person in the picture angry,901,1801
+Isn't there a clock in the picture,901,1802
+Are the people in the picture enjoying it,902,1803
+Is the person in the picture sleeping,902,1804
+Is the person in the picture blaming themselves,903,1805
+Is the person in the picture laughing,903,1806
+Is the person in the picture writing,904,1807
+Is the person in the picture learning,904,1808
+Is the person in the picture with their eyes closed,905,1809
+Is the person in the picture sleeping,905,1810
+Is the person in the picture having a picnic,906,1811
+Isn't the person in the picture in the yard,906,1812
+Is the person in the picture silent,907,1813
+Is the person in the picture in the office,907,1814
+Is the person in the picture in front of the mirror,908,1815
+Is the person in the picture silent,908,1816
+Is the person in the picture in the fitting room,909,1817
+The person in the picture is buying clothes,909,1818
+Is the person in the picture awkward,910,1819
+Isn't the person in the picture under the spotlight,910,1820
+Is the person in the picture in outer space,911,1821
+Is the person in the picture on Earth,911,1822
+Are the people in the picture communicating,912,1823
+Is the person in the picture fishing,912,1824
+Is the person in the picture wiping tears,913,1825
+Is the person in the picture laughing,913,1826
+Is the person in the picture facing each other,914,1827
+Is the person in the picture a good friend,914,1828
+Is the person in the picture angry,915,1829
+The person in the picture is not in the game through the window,915,1830
+Is the person in the picture in the park,916,1831
+Is there love in the picture,916,1832
+Isn't the person in the picture surprised at all,917,1833
+Isn't the person in the picture in the supermarket,917,1834
+Is the person in the picture wearing a suit,918,1835
+Isn't the person in the picture surprised at all,918,1836
+Is the person in the picture consuming in the club,919,1837
+Is the person in the picture a husband,919,1838
+Is the person in the picture in the clubhouse,920,1839
+Is the person in the picture consuming in the club,920,1840
+Is the person in the picture very angry,921,1841
+Isn't the person in the picture a journalist,921,1842
+Do the people in the picture have flowers in their hands,922,1843
+Are the people in the picture very happy,922,1844
+Is the person in the picture giving a speech,923,1845
+Is there nothing in the person's hand in the picture,923,1846
+Is the person in the picture angry,924,1847
+Is the person in the picture an employee,924,1848
+Is the person in the picture using a microphone,925,1849
+Is the person in the picture mourning,925,1850
+Is the person in the picture wearing lipstick on the way,926,1851
+Is the person in the picture a woman,926,1852
+Is there love in the picture,927,1853
+Is there love in the picture,927,1854
+Is the person in the picture on the Rostra,928,1855
+Is there no red cloth in the picture,928,1856
+Are the people in the picture very happy,929,1857
+Is the person in the picture sleeping,929,1858
+Is the person in the picture refuting others,930,1859
+Are the people in the picture making trouble for no reason,930,1860
+Is the person in the picture a partner,931,1861
+Is the person in the picture an employee,931,1862
+Is the person in the picture on the seat,932,1863
+Is the person in the picture an employee,932,1864
+Is the person in the picture scolding and cursing,933,1865
+Is the person in the picture under the seat,933,1866
+Is the person in the picture reporting work,934,1867
+Is the person in the picture being affected,934,1868
+Is the person in the picture using a loudspeaker,935,1869
+Is the person in the picture giving a speech,935,1870
+Is the person in the picture giving a speech,936,1871
+Is the person in the picture going crazy,936,1872
+Is the person in the picture at night,937,1873
+Is the person in the picture a hacker,937,1874
+Is the suit in the picture rotten,938,1875
+Isn't the person in the picture in the fitting room,938,1876
+Is the person in the picture angry,939,1877
+Is the person in the picture wearing casual clothes,939,1878
+Is the person in the picture speechless,940,1879
+Is the person in the picture talking,940,1880
+Is the person in the picture surprised,941,1881
+Is the person in the picture wearing casual clothes,941,1882
+Is the person in the picture the boss,942,1883
+Is the person in the picture very warm,942,1884
+Is the person in the picture the boss,943,1885
+Is the person in the picture talking,943,1886
+Is the person in the picture wearing a suit,944,1887
+Is the person in the picture an employee,944,1888
+Is the person in the picture running,945,1889
+Is it night in the picture,945,1890
+Is the person in the picture complaining,946,1891
+The person in the picture is not at the bedroom door,946,1892
+Is the person in the picture in the cinema,947,1893
+Are the people in the picture very happy,947,1894
+Is the person in the picture making a phone call,948,1895
+Isn't the person in the picture in prison,948,1896
+Is there a person in the picture,949,1897
+Do you have eyes on the picture,949,1898
+Is the person in the picture abnormal,950,1899
+Is this a normal person in the picture,950,1900
+Is the criminal in the picture,951,1901
+Isn't the person in the picture in prison,951,1902
+Is there a police officer in the picture,952,1903
+Isn't it in the picture from the airport bureau,952,1904
+Is the person in the picture thinking,953,1905
+Didn't the person in the picture take a pen,953,1906
+Do you have glasses in the picture,954,1907
+Isn't there a microwave in the picture,954,1908
+Is there a thief in the picture,955,1909
+Is it daytime in the picture,955,1910
+Is there a TV in the picture,956,1911
+Is the criminal in the picture,956,1912
+Is the person in the picture dancing hot,957,1913
+Is the person in the picture a woman,957,1914
+Is the person in the picture a woman,958,1915
+Is the person in the picture indoors,958,1916
+Is the person in the picture a man,959,1917
+Is the person in the picture a police officer,959,1918
+Are the people in the picture very happy,960,1919
+Isn't the person in the picture on TV,960,1920
+Is the person in the picture playing handsome,961,1921
+Is the person in the picture a woman,961,1922
+Is the person in the picture indoors,962,1923
+Are the people in the picture happy,962,1924
+Are there two people in the picture,963,1925
+Is the person in the picture indoors,963,1926
+Is the wall in the picture pink,964,1927
+Is it a woman in the picture,964,1928
+Is there anyone in the picture being affected,965,1929
+Is it a sunny day in the picture,965,1930
+Is there anyone in the picture,966,1931
+Is the person in the picture a teacher,966,1932
+There are many people in the picture,967,1933
+Is it daytime in the picture,967,1934
+Is the person in the picture surprised,968,1935
+Is it evening in the picture,968,1936
+Is it daytime in the picture,969,1937
+Is the person in the picture the CEO,969,1938
+Is the person in the picture a scientist,970,1939
+Is the person in the picture very sad,970,1940
+Is there a person in the picture,971,1941
+Is the person in the picture a scientist,971,1942
+Is the person in the picture indoors,972,1943
+Is the picture at night,972,1944
+Is the person in the picture indoors,973,1945
+Are there many people in the picture,973,1946
+Is the person in the picture outdoors,974,1947
+Is the person in the picture very angry,974,1948
+Are the people in the picture very happy,975,1949
+Is the person in the picture indoors,975,1950
+Are there two people in the picture,976,1951
+Are there two people in the picture who have love,976,1952
+Is the person in the picture angry,977,1953
+Is the person in the picture a police officer,977,1954
+Isn't it on the bed in the picture,978,1955
+Is the person in the picture outdoors,978,1956
+Is the person in the picture very angry,979,1957
+Isn't it on the bed in the picture,979,1958
+There are many people in the picture,980,1959
+Is there love in the picture,980,1960
+Is the person in the picture very sad,981,1961
+Is it indoors in the picture,981,1962
+Is the person in the picture a police officer,982,1963
+Are there many people in the picture,982,1964
+Is the person in the picture angry,983,1965
+Is the person in the picture a police officer,983,1966
+Are the people in the picture happy,984,1967
+Is it daytime in the picture,984,1968
+Is the person in the picture with their hands folded together,985,1969
+Are there two individuals in the image?,985,1970
+Is the person in the picture on TV,986,1971
+"The individual in the photo is outside sources,",986,1972
+Do you see numerous individuals in the image?,987,1973
+Isn't it a family in the picture,987,1974
+Does anyone appear in the photo?,988,1975
+Is the subject in the photo outside?,988,1976
+Does anyone appear in the photo?,989,1977
+Is the person in the picture eating,989,1978
+Is there a second person in the image?,990,1979
+Do the people in the photo appear to be joyful?,990,1980
